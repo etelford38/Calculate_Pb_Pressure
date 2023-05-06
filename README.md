@@ -7,4 +7,4 @@ Written by Evan Telford (ejt2133@columbia.edu).
 3. Click "Calculate Pressure".
 4. The calculated pressure will be displayed.
 
-Note: the calculation of Pb assumes a negligible measuring field and a linear approximation for dTc/dP.
+Note: the calculation of pressure based on the superconducting transition temperature of Pb assumes a negligible measuring field and a linear approximation for dTc/dP.
