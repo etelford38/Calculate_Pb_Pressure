@@ -1,5 +1,5 @@
 # Calculate_Pb_Pressure
-Simple GUI for easily calculating sample pressure based on the superconducting transition temperature of lead.
+Simple GUI for easily calculating sample pressure based on the superconducting transition temperature of Pb.
 Written by Evan Telford (ejt2133@columbia.edu).
 
 1. Run the program "Calculate_Pb_Pressure.py".
